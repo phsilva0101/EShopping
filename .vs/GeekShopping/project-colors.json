@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cf7a2d64-f1e6-4636-9c2b-866b1e2eb763": {
+      "ProjectGuid": "cf7a2d64-f1e6-4636-9c2b-866b1e2eb763",
+      "DisplayName": "GeekShopping.Product.API",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e0d1521b-b154-4249-a710-4504b181a2ca": {
+      "ProjectGuid": "e0d1521b-b154-4249-a710-4504b181a2ca",
+      "DisplayName": "GeekShopping.Web",
+      "ColorIndex": 1
+    },
+    "0b90b27d-52cc-49a6-84c9-f21f4ae52e24": {
+      "ProjectGuid": "0b90b27d-52cc-49a6-84c9-f21f4ae52e24",
+      "DisplayName": "GeekShopping.IdentityServer",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
